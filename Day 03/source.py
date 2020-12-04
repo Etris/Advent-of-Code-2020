@@ -1,6 +1,4 @@
 file_path = 'validation_data.txt'
-
-
 # file_path = 'test_input.txt'
 
 
